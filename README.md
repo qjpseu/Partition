@@ -4,6 +4,7 @@ Simple polygon partition and random generation
 
 Program:
 Partition.jar
+
 A quasi-real-time simple polygon partition and random generation program.
 The partitioning process is divided into two stages: online and offline. In the online stage, add each vertex of the polygon one by one into a convex and/or concave ring or triangle; In the offline stage, the convex and/or concave rings are further split into triangles. 
 
@@ -58,6 +59,7 @@ If checked, the polygonal convex-hull is displayed.
 <img width="784" height="591" alt="image" src="https://github.com/user-attachments/assets/6bb01bca-b43c-47be-bdc1-194b3fedc005" />
 
 “ConvexHull” checkbox is checked
+
 
  <img width="784" height="591" alt="image" src="https://github.com/user-attachments/assets/67dfe4a8-0960-487a-a940-ab5a0a4a231a" />
 
