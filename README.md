@@ -11,7 +11,7 @@ The partitioning process is divided into two stages: online and offline. In the 
 
 Installation: 
 Decompress Partition.zip
-Modify the first line in the Partition.bat to set the correct path where the Java program is located, and the memory available.
+Modify the first line in the Partition.bat to set the correct path where the Java program is located, and than, the memory available.
 
 
 The interface:
@@ -135,7 +135,7 @@ Enter the number of vertices of the auto-generated polygon (when the “Random�
 
 
 The “Threshold” text field:
-An integer greater than or equal to 1. Control the number of searches on double of the edges. The smaller the threshold, the more subregions may be generated; The higher the threshold, the fewer subregions are generated. For the quasi-real-time treatment, this value is disabled (no subregion is generated).
+An integer greater than or equal to 1. Control the number of searches on double of the edges. The smaller the threshold, the more subregions may be generated; The higher the threshold, the fewer subregions are generated.
 
 
 The “Sleep” text field:
